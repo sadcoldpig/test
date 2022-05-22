@@ -1,7 +1,0 @@
-hello world.
-second
-third
-dev
-fourth
-fiveth
-sixth
